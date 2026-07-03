@@ -1,16 +1,16 @@
 ## Hi there 👋
+## I'm Javaria — IT Student & Freelance Web Developer
 
-<!--
-**javaria222shahbaz-art/javaria222shahbaz-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Information Technology @ Bahria University, Karachi
+🌱 Currently strengthening my C++ & competitive programming skills
+💬 Ask me about **HTML/CSS, Java (OOP), C++, MySQL**
 
-Here are some ideas to get you started:
+### 🚀 Projects
+- 🍽️ **Cafeteria Management System** — built in C++
+- 🛒 **E-Commerce Website** — responsive frontend with HTML5 & CSS3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages & Tools
+
+![](https://skillicons.dev/icons?i=html,css,cpp,java,mysql,git,github)
+
+📫 Reach me: javaria222shahbaz@gmail.com
