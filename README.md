@@ -1,9 +1,9 @@
 ## Hi there 👋
 ## I'm Javaria — IT Student & Freelance Web Developer
 
-🎓 BS Information Technology @ Bahria University, Karachi
-🌱 Currently strengthening my C++ & competitive programming skills
-💬 Ask me about **HTML/CSS, Java (OOP), C++, MySQL**
+🎓 BS Information Technology @ Bahria University, Karachi.
+ Currently strengthening my C++ & competitive programming skills.
+ Ask me about **HTML/CSS, Java (OOP), C++, MySQL**
 
 ### 🚀 Projects
 - 🍽️ **Cafeteria Management System** — built in C++
